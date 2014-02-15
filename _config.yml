@@ -1,0 +1,4 @@
+name: Michał Radmacher
+markdown: redcarpet
+pygments: true
+exclude: [README.md, LICENSE]
