@@ -7,7 +7,7 @@ title: Michał Radmacher - Music
 
 * [Iglika](http://www.karoryfer.com/iglika) - balkan dances and music
 * [Hańba!](http://www.karoryfer.com/hanba) - Polish, historical folk-punk
-* [Bumtrlala](http://www.karoryfer.com/bumtralala) - pink-folk family band
+* [Bumtralala](http://www.karoryfer.com/bumtralala) - pink-folk family band
 * [Pospolite Ruszenie](https://www.youtube.com/user/XPospoliteRuszenieX) - medieval rock
 
 ### Old, good times
